@@ -1,4 +1,6 @@
+a = [];
 function addName() {
-    var a = document.getElementById("name()").value
+    var b = document.getElementById("name()").value
+    a.push(b)
     window.alert(a)
 }
