@@ -1,4 +1,3 @@
-
 var a;
 function addName() {
 //get value from input field and save as "a"
