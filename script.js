@@ -13,7 +13,5 @@ function addName() {
   //bind the appended pair to the body
     document.body.appendChild(newP);
   }
-  //clear array
-  a = []
   window.alert(a)
 }
