@@ -11,5 +11,5 @@ function addName() {
 
 function getUser() {
     var b = localStorage.getItem("uName");
-    document.getElementById("placeholder").innerHTML = "Hello" +  "" + b;
+    document.getElementById("placeholder").innerHTML = "Hello" +  " " + b;
 }
